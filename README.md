@@ -1,3 +1,7 @@
+## Information
+
+This repository is an archive of plugin-glavred. Now it moved to the marketplace repository [onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io/tree/master/sdkjs-plugins/content).
+
 ## Overview
 
 The Glavred plugin helps you make your text in Russian more informative and clear. 
